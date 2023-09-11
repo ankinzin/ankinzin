@@ -14,5 +14,5 @@
 
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/arafa_rw/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="http://bit.ly/3sTDU9o/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/arafa-nkinzingabo-a7992b215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOIjbrvQFQ9Cu1WH1hDCjrw%3D%3D/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:nkinzingaboalafa@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
