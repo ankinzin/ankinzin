@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning computer language and it's features
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at 42 Wolfsburg.
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I belive, Playing video games is my perfect solution for any stress. 
+- 😴 &nbsp; I believe, Playing video games is my !perfect solution for any stress (increase it). 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
