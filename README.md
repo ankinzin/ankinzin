@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at 42 Wolfsburg.
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I believe, Playing video games is my !perfect solution for any stress (increase it). 
+- 😴 &nbsp; I believe, Playing video games is my !perfect solution for any stress (increases it). 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
